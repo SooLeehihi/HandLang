@@ -2,8 +2,6 @@
 
 Deep learning based hand gesture recognition using LSTM and MediaPipie.
 
-[Demo video using PingPong Robot](https://youtu.be/g16KvSEq0XU)
-
 ![](result/thumb.webp)
 
 <img src="result/result.gif" width="512px">
